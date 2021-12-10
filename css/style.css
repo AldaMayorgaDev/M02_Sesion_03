@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing:content-box;
+}
+
+.contenedor{
+    margin: 30px auto;
+   
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+
+}
+div{
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+    background-color: #2C475B;
+}
